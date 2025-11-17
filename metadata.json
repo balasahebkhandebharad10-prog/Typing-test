@@ -1,0 +1,5 @@
+{
+  "name": "Typing Speed Test",
+  "description": "A modern, responsive web application to test your typing speed. Get real-time feedback on your WPM, CPM, and accuracy with a clean, professional UI. Features include a countdown timer, results dashboard, and dark/light modes.",
+  "requestFramePermissions": []
+}
